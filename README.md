@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1331-rank-transform-of-an-array](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/1331-rank-transform-of-an-array) |
+| [1410-html-entity-parser](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/1410-html-entity-parser) |
 ## Sorting
 |  |
 | ------- |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1410-html-entity-parser](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/1410-html-entity-parser) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Prefix Sum
 |  |
