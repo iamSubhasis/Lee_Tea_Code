@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/0049-group-anagrams) |
 | [1331-rank-transform-of-an-array](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/1331-rank-transform-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/3312-sorted-gcd-pair-queries) |
@@ -11,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/0242-valid-anagram) |
 | [1331-rank-transform-of-an-array](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/1331-rank-transform-of-an-array) |
 | [1410-html-entity-parser](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/1410-html-entity-parser) |
@@ -18,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/0242-valid-anagram) |
 | [1331-rank-transform-of-an-array](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/1331-rank-transform-of-an-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -37,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/0242-valid-anagram) |
 | [1410-html-entity-parser](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/1410-html-entity-parser) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
