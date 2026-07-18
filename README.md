@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/0509-fibonacci-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -96,4 +97,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/0347-top-k-frequent-elements) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
