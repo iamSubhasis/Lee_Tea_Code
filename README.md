@@ -11,12 +11,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/0242-valid-anagram) |
 | [1331-rank-transform-of-an-array](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/1331-rank-transform-of-an-array) |
 | [1410-html-entity-parser](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/1410-html-entity-parser) |
 | [3312-sorted-gcd-pair-queries](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/3312-sorted-gcd-pair-queries) |
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/0242-valid-anagram) |
 | [1331-rank-transform-of-an-array](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/1331-rank-transform-of-an-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Enumeration
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/0242-valid-anagram) |
 | [1410-html-entity-parser](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/1410-html-entity-parser) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Prefix Sum
