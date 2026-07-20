@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/0509-fibonacci-number) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -115,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/1260-shift-2d-grid) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 <!---LeetCode Topics End-->
