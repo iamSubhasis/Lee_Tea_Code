@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/0509-fibonacci-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [1922-count-good-numbers](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/1922-count-good-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/0509-fibonacci-number) |
+| [1922-count-good-numbers](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/1922-count-good-numbers) |
 ## Memoization
 |  |
 | ------- |
