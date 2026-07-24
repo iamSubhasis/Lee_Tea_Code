@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/0009-palindrome-number) |
 | [0509-fibonacci-number](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/0509-fibonacci-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/1979-find-greatest-common-divisor-of-array) |
