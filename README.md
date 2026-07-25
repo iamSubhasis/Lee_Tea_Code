@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/0125-valid-palindrome) |
+| [0876-middle-of-the-linked-list](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/0876-middle-of-the-linked-list) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
@@ -141,4 +142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
