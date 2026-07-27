@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0125-valid-palindrome](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/0125-valid-palindrome) |
+| [0234-palindrome-linked-list](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/0876-middle-of-the-linked-list) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/0050-powx-n) |
+| [0234-palindrome-linked-list](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/0509-fibonacci-number) |
 | [1922-count-good-numbers](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/1922-count-good-numbers) |
 ## Memoization
@@ -153,6 +155,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0234-palindrome-linked-list](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/0876-middle-of-the-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
