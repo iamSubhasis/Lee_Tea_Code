@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/0347-top-k-frequent-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/1331-rank-transform-of-an-array) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Enumeration
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1410-html-entity-parser](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/1410-html-entity-parser) |
 | [2288-apply-discount-to-prices](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/2288-apply-discount-to-prices) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Prefix Sum
 |  |
@@ -164,4 +166,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/0234-palindrome-linked-list) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
