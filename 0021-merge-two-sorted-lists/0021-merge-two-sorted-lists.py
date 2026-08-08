@@ -10,10 +10,10 @@ class Solution:
         c2=list2
         c3= dummy
 
-        if c1 == None:
-            return c2
-        elif c2 == None:
-            return c1
+        # if c1 == None:
+        #     return c2
+        # elif c2 == None:
+        #     return c1
 
         while c1 != None and c2 != None:
             if c1.val < c2.val :
