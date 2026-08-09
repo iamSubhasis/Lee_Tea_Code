@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/0347-top-k-frequent-elements) |
 | [0486-predict-the-winner](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/0503-next-greater-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/1260-shift-2d-grid) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/0503-next-greater-element-ii) |
 | [0844-backspace-string-compare](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/0844-backspace-string-compare) |
 ## Counting Sort
 |  |
@@ -249,4 +251,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
