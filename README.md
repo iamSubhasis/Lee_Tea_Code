@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/0242-valid-anagram) |
+| [0844-backspace-string-compare](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/0844-backspace-string-compare) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1410-html-entity-parser](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/1410-html-entity-parser) |
 | [2288-apply-discount-to-prices](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/2288-apply-discount-to-prices) |
@@ -110,11 +111,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/0234-palindrome-linked-list) |
+| [0844-backspace-string-compare](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/0876-middle-of-the-linked-list) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
 | ------- |
+| [0844-backspace-string-compare](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/0844-backspace-string-compare) |
 | [1260-shift-2d-grid](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
@@ -206,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/0234-palindrome-linked-list) |
+| [0844-backspace-string-compare](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/0844-backspace-string-compare) |
 ## Counting Sort
 |  |
 | ------- |
