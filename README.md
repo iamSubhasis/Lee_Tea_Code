@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/0347-top-k-frequent-elements) |
 | [0486-predict-the-winner](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/0486-predict-the-winner) |
+| [0496-next-greater-element-i](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/0496-next-greater-element-i) |
 | [0628-maximum-product-of-three-numbers](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/1260-shift-2d-grid) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/0160-intersection-of-two-linked-lists) |
 | [0242-valid-anagram](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/0347-top-k-frequent-elements) |
+| [0496-next-greater-element-i](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/0496-next-greater-element-i) |
 | [1331-rank-transform-of-an-array](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1410-html-entity-parser](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/1410-html-entity-parser) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/0496-next-greater-element-i) |
 | [0844-backspace-string-compare](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/0844-backspace-string-compare) |
 ## Counting Sort
 |  |
@@ -242,4 +245,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/0020-valid-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
