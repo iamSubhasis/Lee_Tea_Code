@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/0050-powx-n) |
 | [0486-predict-the-winner](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/0509-fibonacci-number) |
+| [0556-next-greater-element-iii](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/0556-next-greater-element-iii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0877-stone-game](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/0877-stone-game) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/0242-valid-anagram) |
+| [0556-next-greater-element-iii](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/0556-next-greater-element-iii) |
 | [0844-backspace-string-compare](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/0844-backspace-string-compare) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1410-html-entity-parser](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/1410-html-entity-parser) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/0234-palindrome-linked-list) |
+| [0556-next-greater-element-iii](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/0556-next-greater-element-iii) |
 | [0844-backspace-string-compare](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/0876-middle-of-the-linked-list) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/3867-sum-of-gcd-of-formed-pairs) |
