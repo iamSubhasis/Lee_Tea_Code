@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/0347-top-k-frequent-elements) |
 | [0486-predict-the-winner](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/0486-predict-the-winner) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/0141-linked-list-cycle) |
