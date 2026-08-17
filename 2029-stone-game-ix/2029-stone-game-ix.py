@@ -1,12 +1,10 @@
-from collections import Counter 
 class Solution:
-    def stoneGameIX(self, stones: List[int]) -> bool:
-        cnt = Counter(x % 3 for  x in stones)
+    def stoneGameIX(self, stones):
+        cnt = [0, 0, 0]
+        for x in stones:
+            cnt[x % 3] += 1
 
-        if cnt[0]%2 ==0:
+        if cnt[0] % 2 == 0:
             return cnt[1] > 0 and cnt[2] > 0
         else:
-            return abs(cnt[1]-cnt[2]) >2
-
-
-        
+            return abs(cnt[1] - cnt[2]) > 2
