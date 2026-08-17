@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/1331-rank-transform-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/2029-stone-game-ix) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/3312-sorted-gcd-pair-queries) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/0877-stone-game) |
 | [1922-count-good-numbers](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/1922-count-good-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/3312-sorted-gcd-pair-queries) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/0347-top-k-frequent-elements) |
+| [2029-stone-game-ix](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/3312-sorted-gcd-pair-queries) |
 ## Divide and Conquer
@@ -239,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [2029-stone-game-ix](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Game Theory
@@ -246,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/0877-stone-game) |
+| [2029-stone-game-ix](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/2029-stone-game-ix) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -269,4 +274,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/0503-next-greater-element-ii) |
+## Minimax
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/2029-stone-game-ix) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/2029-stone-game-ix) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
