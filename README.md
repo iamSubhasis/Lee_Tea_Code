@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0556-next-greater-element-iii](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/0556-next-greater-element-iii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0836-rectangle-overlap](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/0877-stone-game) |
 | [1922-count-good-numbers](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/1922-count-good-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -293,4 +294,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/2029-stone-game-ix) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
