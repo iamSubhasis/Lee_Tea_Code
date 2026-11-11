@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/0242-valid-anagram) |
 | [0556-next-greater-element-iii](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/0556-next-greater-element-iii) |
 | [0844-backspace-string-compare](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/0844-backspace-string-compare) |
+| [1021-remove-outermost-parentheses](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/1021-remove-outermost-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1410-html-entity-parser](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/1410-html-entity-parser) |
 | [2288-apply-discount-to-prices](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/2288-apply-discount-to-prices) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/0503-next-greater-element-ii) |
 | [0844-backspace-string-compare](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/0844-backspace-string-compare) |
+| [1021-remove-outermost-parentheses](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/1021-remove-outermost-parentheses) |
 ## Counting Sort
 |  |
 | ------- |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/0020-valid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/iamSubhasis/Lee_Tea_Code/tree/master/1021-remove-outermost-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
